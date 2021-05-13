@@ -32,8 +32,8 @@ const NavigationBar = (props) => {
                         <LinkContainer to="/fitness">
                             <Nav.Link>Fitness</Nav.Link>
                         </LinkContainer>
-                        <LinkContainer to="/restaurant ">
-                            <Nav.Link>Restaurant</Nav.Link>
+                        <LinkContainer to="/calendar">
+                            <Nav.Link>Calendar</Nav.Link>
                         </LinkContainer>
                     </Nav>
                     <Nav>
