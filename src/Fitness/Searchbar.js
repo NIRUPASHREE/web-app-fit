@@ -9,11 +9,15 @@ import './Search.css'
 
 class Searchbar extends React.Component {
   state = {
-    Abs: 'Top Abs workout',
     Body: 'Top full body workout',
-    Shoulder: 'Top Shoulders workout',
-    eyes: 'Eye Exercises',
-    Meditation: 'meditation music',
+    Abs: 'Top Abs workout',
+    Arms: 'Top Shoulders and arms workout',
+    Legs: 'Top leg workouts',
+    Hiit: 'HIIT Exercises',
+    Pilates: 'Full body Pilates',
+    Yoga: 'Top Yoga Exercise',
+    Meditation: 'Best meditation music',
+    Study: 'Best study music',
   };
   
   handleSubmit = value => {
@@ -23,51 +27,31 @@ class Searchbar extends React.Component {
   render() {
     return (
       <div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+      <br /> <br /> <br />
+      <br /> <br /> <br />
       
       <div>
         <Card className="container">
+        <span>
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Body)}>
+              <CardMedia
+                className="media"
+                image="/logo192.png"
+                title="FULL BODY WORKOUT"
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5" component="h2">
+                  FULL BODY WORKOUT
+            </Typography>
+              </CardContent>
+            </CardActionArea>
+          </span>
+
           <span>
             <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Abs)}>
               <CardMedia
                 className="media"
-                image="/abs.png"
-                title="FULL BODY WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  FULL BODY WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-
-          <span>
-            <CardActionArea className="root">
-              <CardMedia
-                className="media"
-                image="/logo192.png"
-                title="FULL BODY WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  FULL BODY WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root">
-              <CardMedia
-                className="media"
-                image="/logo192.png"
+                image="/images/abs.png"
                 title="ABS WORKOUT"
               />
               <CardContent>
@@ -79,11 +63,11 @@ class Searchbar extends React.Component {
           </span>
 
           <span>
-            <CardActionArea className="root">
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Arms)}>
               <CardMedia
                 className="media"
-                image="/logo192.png"
-                title=" ARMS WORKOUT"
+                image="/images/shoulder.png"
+                title="ARMS WORKOUT"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
@@ -94,11 +78,11 @@ class Searchbar extends React.Component {
           </span>
 
           <span>
-            <CardActionArea className="root">
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Legs)}>
               <CardMedia
                 className="media"
-                image="/logo192.png"
-                title=" LEGS WORKOUT"
+                image="/.png"
+                title="LEGS WORKOUT"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
@@ -108,8 +92,9 @@ class Searchbar extends React.Component {
             </CardActionArea>
           </span>
 
+
           <span>
-            <CardActionArea className="root">
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Hiit)}>
               <CardMedia
                 className="media"
                 image="/logo192.png"
@@ -124,30 +109,60 @@ class Searchbar extends React.Component {
           </span>
 
           <span>
-            <CardActionArea >
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Pilates)}> 
               <CardMedia
                 className="media"
-                image="/logo192.png"
-                title="STUDY MUSIC"
+                image="/images/pilates.png"
+                title=" PILATES WORKOUT"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
-                  STUDY MUSIC
+                PILATES WORKOUT
             </Typography>
               </CardContent>
             </CardActionArea>
           </span>
 
           <span>
-            <CardActionArea>
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Yoga)}>
               <CardMedia
                 className="media"
                 image="/logo192.png"
+                title="YOGA"
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5" component="h2">
+                  YOGA
+            </Typography>
+              </CardContent>
+            </CardActionArea>
+          </span>
+
+          <span>
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Meditation)}>
+              <CardMedia
+                className="media"
+                image="/images/Meditation.png"
                 title="MEDITATION MUSIC"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
                   MEDITATION MUSIC
+            </Typography>
+              </CardContent>
+            </CardActionArea>
+          </span>
+
+          <span>
+            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Study)}> 
+              <CardMedia
+                className="media"
+                image="/images/study.png"
+                title="STUDY MUSIC"
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5" component="h2">
+                  STUDY MUSIC
             </Typography>
               </CardContent>
             </CardActionArea>
