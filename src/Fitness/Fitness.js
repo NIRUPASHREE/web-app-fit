@@ -4,12 +4,14 @@ import youtube from '../api/youtube';
 import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import NavigationBar from '../NavigationBar /NavigationBar';
+import './Fitness.css';
 
 class Fitness extends React.Component {
     state = {
         videos: [],
         selectedVideo: null
     }
+
     handleSubmit = async (termFromSearchBar) => {
         const response = await youtube.get('/search', {
             params: {
@@ -28,16 +30,16 @@ class Fitness extends React.Component {
 
     render() {
         return (
-            <div>
+            <div style = {{ background: "black", }}>
                 <NavigationBar />
-            <div className='ui container' style={{marginTop: '1em'}}>
-                <SearchBar handleFormSubmit={this.handleSubmit}/>
-                <div className='ui grid'>
-                    <div className="ui row">
-                        <div className="eleven wide column">
+            <div className="fitness-container">
+                <SearchBar handleFormSubmit={this.handleSubmit}/>    {/*for card component */}
+                <div>
+                    <div>
+                        <div>
                             <VideoDetail video={this.state.selectedVideo}/>
                         </div>
-                        <div className="five wide column">
+                        <div>
                             <VideoList handleVideoSelect={this.handleVideoSelect} videos={this.state.videos}/>
                         </div>
                     </div>

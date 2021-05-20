@@ -1,8 +1,4 @@
-.root {
-    maxWidth: 345;
-  }
-
-.media {
-    height: 140;
-  }
-
+.fitness-container {
+    background: rgb(0, 0, 0);
+    margin-top: 1rem;
+}

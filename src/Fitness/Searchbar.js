@@ -1,23 +1,19 @@
 import React from 'react';
-import Card from '@material-ui/core/Card';
-import CardActionArea from '@material-ui/core/CardActionArea';
-import CardContent from '@material-ui/core/CardContent';
-import CardMedia from '@material-ui/core/CardMedia';
-import Typography from '@material-ui/core/Typography';
-import './Search.css'
+import Card from './Card/Card';
+import './Searchbar.css';
 
 
 class Searchbar extends React.Component {
   state = {
-    Body: 'Top full body workout',
-    Abs: 'Top Abs workout',
-    Arms: 'Top Shoulders and arms workout',
-    Legs: 'Top leg workouts',
-    Hiit: 'HIIT Exercises',
-    Pilates: 'Full body Pilates',
-    Yoga: 'Top Yoga Exercise',
-    Meditation: 'Best meditation music',
-    Study: 'Best study music',
+    Body: {name: 'FULL BODY', search:'Top full body workout'},
+    Abs: {name: 'ABS', search:'Top Abs workout'},
+    Arms: {name: 'ARMS', search:'Top Shoulders and arms workout'} ,
+    Legs: {name: 'LEGS', search:'Top leg workouts'},
+    Hiit: {name: 'HIIT', search:'HIIT Exercises'},
+    Pilates: {name: 'PILATES', search:'Full body Pilates'},
+    Yoga: {name: 'YOGA', search:'Top Yoga Exercise'},
+    Meditation: {name: 'MEDITATIONAL MUSIC', search:'Best meditation music'},
+    Study: {name: 'STUDY MUSIC', search:'Best study music'},
   };
   
   handleSubmit = value => {
@@ -26,154 +22,19 @@ class Searchbar extends React.Component {
 
   render() {
     return (
-      <div>
-      <br /> <br /> <br />
-      <br /> <br /> <br />
-      
-      <div>
-        <Card className="container">
-        <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Body)}>
-              <CardMedia
-                className="media"
-                image="/logo192.png"
-                title="FULL BODY WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  FULL BODY WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Abs)}>
-              <CardMedia
-                className="media"
-                image="/images/abs.png"
-                title="ABS WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  ABS WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Arms)}>
-              <CardMedia
-                className="media"
-                image="/images/shoulder.png"
-                title="ARMS WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  ARMS WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Legs)}>
-              <CardMedia
-                className="media"
-                image="/.png"
-                title="LEGS WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  LEGS WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Hiit)}>
-              <CardMedia
-                className="media"
-                image="/logo192.png"
-                title=" HIIT WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  HIIT WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Pilates)}> 
-              <CardMedia
-                className="media"
-                image="/images/pilates.png"
-                title=" PILATES WORKOUT"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                PILATES WORKOUT
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Yoga)}>
-              <CardMedia
-                className="media"
-                image="/logo192.png"
-                title="YOGA"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  YOGA
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Meditation)}>
-              <CardMedia
-                className="media"
-                image="/images/Meditation.png"
-                title="MEDITATION MUSIC"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  MEDITATION MUSIC
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-
-          <span>
-            <CardActionArea className="root" onClick={() => this.handleSubmit(this.state.Study)}> 
-              <CardMedia
-                className="media"
-                image="/images/study.png"
-                title="STUDY MUSIC"
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="h2">
-                  STUDY MUSIC
-            </Typography>
-              </CardContent>
-            </CardActionArea>
-          </span>
-          
-        </Card>
-      </div>
-      <br />
-      <br />
+      <div className="grid-container">
+       <div className="content" onClick={() => this.handleSubmit(this.state.Body.search)}><Card image="/images/fullbody.png" title={this.state.Body.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Abs.search)}><Card image="/images/abs.png" title={this.state.Abs.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Arms.search)}><Card image="/images/arms.png" title={this.state.Arms.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Legs.search)}><Card image="/images/legs.png" title={this.state.Legs.name} /> </div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Hiit.search)}><Card image="/images/hiit.png" title={this.state.Hiit.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Pilates.search)}><Card image="/images/pilates.png" title={this.state.Pilates.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Yoga.search)}><Card image="/images/yoga.png" title={this.state.Yoga.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Meditation.search)}><Card small={0} image="/images/meditation.png" title={this.state.Meditation.name} /></div> 
+       <div className="content" onClick={() => this.handleSubmit(this.state.Study.search)}><Card image="/images/study.png" title={this.state.Study.name} /></div> 
       </div>
     );
   }
 }
 export default Searchbar;
+

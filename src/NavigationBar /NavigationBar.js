@@ -10,9 +10,9 @@ import { LinkContainer } from "react-router-bootstrap";
 const NavigationBar = (props) => {
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark">
-                <LinkContainer to="/">
-                    <Navbar.Brand href="#home">
+            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+                <LinkContainer to="/home">
+                    <Navbar.Brand>
                         <img
                             src="/logo192.png"
                             width="30"
@@ -26,9 +26,6 @@ const NavigationBar = (props) => {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto" activeKey={window.location.pathname}>
-                        <LinkContainer to="/home">
-                            <Nav.Link>Home</Nav.Link>
-                        </LinkContainer>
                         <LinkContainer to="/fitness">
                             <Nav.Link>Fitness</Nav.Link>
                         </LinkContainer>
