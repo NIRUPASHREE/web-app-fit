@@ -4,6 +4,7 @@ import 'react-datepicker/dist/react-datepicker.css';
 import './CalendarForm.css';
 import NavigationBar from '../NavigationBar /NavigationBar';
 
+const axios = require('axios')
 function FormApp() {
   const [register, setRegister] = useState({
     workoutType: null,
@@ -17,7 +18,16 @@ function FormApp() {
   };
 
   const onSubmit = data => {
-    alert(JSON.stringify(data));
+    //alert(JSON.stringify(data));
+    
+    axios.post('ec2-52-194-229-242.ap-northeast-1.compute.amazonaws.com:3000/events', {
+      workouttype: register.workoutType,
+      starttime: startDate,
+      endtime: endDate,
+  })
+  .then(function (response) {
+    console.log(response);
+  })
   };
 
   const [startDate, setStartDate] = useState(new Date());
@@ -28,22 +38,22 @@ function FormApp() {
       <div>
         <NavigationBar />
       </div>
-      <div class='body'>
+      <div className='body'>
         <form
-          class='form'
+          className='form'
           onSubmit={ () => onSubmit({ 
-            workoutType: register.workoutType,
-            startTime: startDate,
-            endTime: endDate,
+            workouttype: register.workoutType,
+            starttime: startDate,
+            endtime: endDate,
           })}
         >
           <div>
             <div>
-              <label class='label' htmlFor='Workout'>
+              <label className='label' htmlFor='Workout'>
                 Workout
               </label>
               <select
-                class='form-select select'
+                className='form-select select'
                 onChange={handleChange}
                 aria-label='Default select example'
               >
@@ -58,7 +68,7 @@ function FormApp() {
               </select>
             </div>
             <div>
-              <label class='label'>Start Time</label>
+              <label className='label'>Start Time</label>
               <DatePicker
                 htmlFor='startDate'
                 selected={startDate}
@@ -69,7 +79,7 @@ function FormApp() {
               />
             </div>
             <div>
-              <label class='label'>End Time</label>
+              <label className='label'>End Time</label>
               <DatePicker
                 htmlFor='endDate'
                 selected={endDate}
@@ -80,7 +90,7 @@ function FormApp() {
               />
             </div>
 
-            <input class='input btn' type='submit' />
+            <input className='input btn' type='submit' />
           </div>
         </form>
       </div>
