@@ -1,0 +1,1038 @@
+[
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "La Lucciola" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ999dBIrmAGARCSlrbMSkriA" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Hiramatsu" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJCemqKvDmAGARaa9f56LdsFk" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "IL PINOLO" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJCy4HO43mAGARAP6yfECZ2ls" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Yi-Fu" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJGWmIa_HmAGARWE58-0ns2cs" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Gemmian Nishiumeda" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH3TKoPLmAGAR9x5kYVV0Xno" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "串かつ料理 活 阪急グランドビル店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH6EIVpLmAGAR4dlIL8rP-fw" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "星家" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJJ6Spye3mAGARnln9XEkZ_ek" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Prison Restaurant The lock-up Umeda" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJM92lrZTmAGARETDa1RZPXmI" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Imperial Hotel Osaka" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJM9lL5tHmAGARufrPFc23Djg" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Sakana ryori Rokkon" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJOfjuKezmAGARVsnhzFhMpu4" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": {
+          "S": "Kushikatsu-ryori KATSU Hankyu-Sambangai, near Umeda station｜ One of top-shelf Kushikatsu (fried skewer) Restaurant in Osaka"
+        },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJY2t6EJLmAGAREFy52ueV1Fc" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Gimpei Osaka-kitashinchi" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJdZGMCPLmAGARlkQTgpqi6O4" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Hotel Hanshin Osaka" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJfd9En4rmAGAR7S16-8i3se0" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "RIHGA Royal Hotel Osaka" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJq23VpljmAGARdNZzejUkbv4" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "LUXE Tajimaya" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJt58DM-3mAGARKocHV5OMuj4" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "XEX West" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJtbiN24zmAGARTiZVtKmqEis" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "トップサーティー スカイダイニング＆バー" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJu9GIVO3mAGAR1zoB3QQ8iEg" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "ラグナヴェールプレミア" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJxU8Lgo3mAGARaC5qINDFmSc" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Piano Piano" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJxafZyOTmAGARIEGIu9-sR5w" }
+      },
+      {
+        "city": { "S": "34.6937,135.5023" },
+        "name": { "S": "Garden City Club Osaka" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJz4HJq4zmAGAReKkiSm_X7j0" }
+      }
+    ],
+    "ScannedCount": 20
+  },
+  {
+    "Count": 45,
+    "Items": [
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "DevelopersIO Cafe" },
+        "rating": { "N": "5" },
+        "place_id": { "S": "ChIJ0dtyq_qLGGARZwQki6ihe2g" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Chibo Yurakucho Bic Camera" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ0dtyq_qLGGARZwQki6ihe2U" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Kyotatsu" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ56bcZvuLGGAR8t883yKsv8g" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "rating": { "S": "4" },
+        "name": { "S": "Salad Meal" },
+        "place_id": { "S": "ChIJ7VAFXJ-LGGARk6eUMsih0j0" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "rating": { "S": "4" },
+        "name": { "S": "Salad Meal" },
+        "place_id": { "S": "ChIJ7VAFXJ-LGGARk6eUMsih0j2" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "La Lucciola" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ999dBIrmAGARCSlrbMSkriA" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Hiramatsu" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJCemqKvDmAGARaa9f56LdsFk" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "IL PINOLO" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJCy4HO43mAGARAP6yfECZ2ls" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Air" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJEeLbjWqLGGARupQeVeTR5So" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Yi-Fu" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJGWmIa_HmAGARWE58-0ns2cs" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Gemmian Nishiumeda" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH3TKoPLmAGAR9x5kYVV0Xno" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "串かつ料理 活 阪急グランドビル店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH6EIVpLmAGAR4dlIL8rP-fw" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Shōfukurō" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH8vQ7fmLGGARTLjjG-oAI3k" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "ブリーズ・オブ・トウキョウ 丸の内店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH8vQ7fmLGGARjlIAFO5fjq0" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Dai-ichi Hotel Tokyo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJIeuDAOyLGGARhI_-HrDOv4E" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "星家" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJJ6Spye3mAGARnln9XEkZ_ek" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Shangri-La Hotel, Tokyo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJL6nVJvyLGGAR8jHaHUYIL48" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Prison Restaurant The lock-up Umeda" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJM92lrZTmAGARETDa1RZPXmI" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Imperial Hotel Osaka" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJM9lL5tHmAGARufrPFc23Djg" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Brasserie Viron Marunouchi" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJMTWC-PqLGGARrODJ7QA3DbU" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "MUY" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJMTWC-PqLGGARwIb-WDuPEZk" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Yamagata-da" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJMeJptOaLGGARW77Ki5bGuRY" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Sakana ryori Rokkon" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJOfjuKezmAGARVsnhzFhMpu4" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Vampire Cafe" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJPYBAAuaLGGARfRgQF_GySvI" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Ain Soph. Ginza" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJQ95c0uCLGGARcUHJMJzpTTE" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Imperial Hotel Tokyo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJT7wVXe6LGGARpg6sWitWN8Y" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "ワールド" },
+        "rating": { "N": "5" },
+        "place_id": { "S": "ChIJTQrU6tltc18RnegXDKNgblk" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": {
+          "S": "Kushikatsu-ryori KATSU Hankyu-Sambangai, near Umeda station｜ One of top-shelf Kushikatsu (fried skewer) Restaurant in Osaka"
+        },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJY2t6EJLmAGAREFy52ueV1Fc" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Gimpei Osaka-kitashinchi" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJdZGMCPLmAGARlkQTgpqi6O4" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "新得そばの館 レストラン玄穣" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJe8dZDK1uc18RHK5SmXUlW7E" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Hotel Hanshin Osaka" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJfd9En4rmAGAR7S16-8i3se0" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Brasserie AUX AMIS" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJi34-g_qLGGARqfitVs69g2k" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "しち十二候" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJk3G9XYKLGGARPe7_QkNFRDY" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Shiseido Parlour" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJoVC4i-iLGGAR9mJULMWzaxM" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "RIHGA Royal Hotel Osaka" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJq23VpljmAGARdNZzejUkbv4" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Dining hall of Tokyo Fire Dep." },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJqaQ7Sw-MGGARso2XmCN8X-Y" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "花森熊カフェ 山小屋店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJqcY1NDBqc18RPwWET1gg5uM" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Siam Heritage Tokyo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJrcvysPmLGGARmOQI5VLezHU" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "LUXE Tajimaya" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJt58DM-3mAGARKocHV5OMuj4" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "XEX West" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJtbiN24zmAGARTiZVtKmqEis" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "トップサーティー スカイダイニング＆バー" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJu9GIVO3mAGAR1zoB3QQ8iEg" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "American" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJx5ZQv-CLGGARIrWPgSf4H0E" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "ラグナヴェールプレミア" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJxU8Lgo3mAGARaC5qINDFmSc" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Piano Piano" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJxafZyOTmAGARIEGIu9-sR5w" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "銀座ロビー" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJyenfAOSLGGARkf22pAyZ29g" }
+      },
+      {
+        "city": { "S": "35.6804,139.7690" },
+        "name": { "S": "Garden City Club Osaka" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJz4HJq4zmAGAReKkiSm_X7j0" }
+      }
+    ],
+    "ScannedCount": 45
+  },
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "원할머니보쌈 관철점" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ0eLeGOaifDURBPBG7PJYCjA" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "The Spoon" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ7bKnOIiifDURVkqxTJFicrY" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "리나스 숭례문점" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ8SKfloqifDUR-XvrNCd8bOw" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "호아빈 시청점" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ90pHMPOifDURQ_wE9m7n-9E" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Ogawa" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJDZZ2XZOifDURMG141DzjvOs" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "퓨전 길밭. 분식" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJE3hc2u-ifDURDeIh5Ny7vfg" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "The Restaurant" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJG9IJmcaifDURfdO3wPGYBYc" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Hanaro Hoegwan" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJG_zBE-iifDURGS5-a17d2Qs" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "리츠푸드" },
+        "place_id": { "S": "ChIJM7VpxPqifDUR2Uhgny6CgBE" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "소공동뚝배기집(본사)" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJPRsggIyifDURjq17muz317g" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "피자디빠네" },
+        "place_id": { "S": "ChIJRUy4GdyifDURJiJKSi2XzTY" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "오븐에빠진닭" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJVY0IO5OifDURZvaEk8-dlOQ" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "김가네 서소문점" },
+        "place_id": { "S": "ChIJWTvmrYyifDURRgx-Q0E7JEA" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "(주)한미리푸드어소시에이트" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJY-2Z_-yifDUR2hg4GSKHvwg" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Din Tai Fung" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJZfqyTvCifDURj0A4kmAEV0E" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "데져트피자" },
+        "place_id": { "S": "ChIJeQ2W28WifDURqLMFWGY2_TQ" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Candle 1978" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJp9VynveifDURO2--INmo4Ho" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Mokkoji" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJufoOD4uifDUR2RDNop-e7wo" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "Goryeo Samgyetang Gwanghwamun" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJx_XVruyifDURWSy_wj7OHy0" }
+      },
+      {
+        "city": { "S": "37.5665,126.9780" },
+        "name": { "S": "점보 프레지던트호텔" },
+        "place_id": { "S": "ChIJyzUmdfKifDURA2AUtw9aJqI" }
+      }
+    ],
+    "ScannedCount": 20
+  },
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "たこや" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ-z_5m9ltc18R6ndWId-zWlY" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "Forest Kitchen Kawai" },
+        "place_id": { "S": "ChIJ0e_V4qcTc18RKu6a9c4ntgY" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "森のキッチンかわい" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJF4TaavETc18Rmq_AaatJIBM" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "Sabrionoes" },
+        "place_id": { "S": "ChIJHaRk0Hpvc18ReosVPE9vCoE" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "手打ちそば 玄穣" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJHz8EKw9vc18RbbWuwcZ4YCc" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "Ramen Rocky Karikachi" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJNUmwzOZrc18RKRUQ4DaLDSE" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "くるめの里" },
+        "rating": { "N": "2" },
+        "place_id": { "S": "ChIJS-Qm8JITc18RXu8CTJ_uX00" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "金酔" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJTQrU6tltc18R-3JfWAClFw0" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "ワールド" },
+        "rating": { "N": "5" },
+        "place_id": { "S": "ChIJTQrU6tltc18RnegXDKNgblk" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "屈足平和園" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJTQrU6tltc18RxR7NR7K5SqY" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "ポパイ" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJWzB6Z0Nuc18R7TZjvxRRd0k" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "鳥や" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJbfi82Nhtc18RtgrW8BfuFa4" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "フォーマルハウト" },
+        "rating": { "N": "2" },
+        "place_id": { "S": "ChIJcacwdNtrc18RLCX5bmxBuuk" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "新得そばの館 レストラン玄穣" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJe8dZDK1uc18RHK5SmXUlW7E" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "居酒屋くったり" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJjQDDIdltc18RINGTl0tGTfY" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "ヴィレッジ432" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJmadnJ7Nuc18RbZxyrBQ4mCU" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "(有)焼肉ハウスジュージュー 屈足店" },
+        "place_id": { "S": "ChIJq6qqttltc18RmZaSAFjCoXI" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "花森熊カフェ 山小屋店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJqcY1NDBqc18RPwWET1gg5uM" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "スナック綾" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJvVtIrtBtc18RuyNhCMRI2cU" }
+      },
+      {
+        "city": { "S": "43.2203,142.8635" },
+        "name": { "S": "ラーメンの寳龍 新得店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJyTWduQBvc18RZgO8eZpSWFM" }
+      }
+    ],
+    "ScannedCount": 20
+  },
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Scorpione Kichiu Kyoto" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ3SKh8r8IAWARiCfvaR8CiG0" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Ryokan Kohro" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ3UJUT5AIAWARvNskrarDSdw" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Sumibi Kappo Ifuki" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ3fBJXMEIAWARjzoq7CYYMtk" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Ichiran Kyoto Kawaramachi" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ73n36IYIAWAR0OYK9dUDK5g" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "無印良品 Café＆Meal_MUJI京都ＢＡＬ" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJH1d_nJQIAWAR5VPw2HwoQdk" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Cucina Italiana Toudou" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJIToxR48IAWARkGjUc6FNfgs" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Marugame Seimen Kawaramachi Sanjo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJKQUNgYMIAWAR_tUPHS8U2uU" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Kyoto Hotel Okura" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJLS3WZJIIAWARqQv8aoODVqs" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Yachiyo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJP5u_6d8IAWARpfbnD_I3CbU" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Junidanya Head Shop" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJP7SncMEIAWARAzHg_D_VLG0" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Kyo-ryori Chimoto" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJUeQH_r8IAWARozO3A-U-qCU" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Tankuma Kitamise Honten" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJWTwdIZUIAWARAEenTpasC-o" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Rubino Kyoto Horikawa" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJY3re93cIAWARXiXnGsxf2q0" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "花舞 -寧-" },
+        "rating": { "N": "5" },
+        "place_id": { "S": "ChIJYz9vTOsIAWARvyn76ZBTG5U" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Yuzuya Ryokan" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ_dhKc8MIAWARimbbfyHhqBQ" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Kinmata" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJf4KvoZYIAWAR0Yuis7LNO2Y" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Hana no Mai Hatago Chaya Ikedaya| Seafood pub" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJgXj-F5MIAWARkA0y8vgIOOA" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Santa Maria Novella Tisaneria Kyoto" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJhYoUEJoIAWARofi6mI-FIEo" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Teuchi Hanamomo" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJuSE1rXgIAWARH3YAYG0FpwM" }
+      },
+      {
+        "city": { "S": "35.0116,135.7681" },
+        "name": { "S": "Manjirō" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJuxR_z9oIAWAR1TzuP0HVXk4" }
+      }
+    ],
+    "ScannedCount": 20
+  },
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "Kiyoken" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ62t5XbCEImARJLW3mZ0CHzA" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "永坂更科 布屋太兵衛 千葉そごう店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ62t5XbCEImARrJinCofzDk4" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "マンジュキッチン" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ6XWee6-EImARaeL4G1RSUHM" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "エピセ" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ7blQcLGEImAR_Q5fpz4gzx8" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "キャトルセゾン" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ92kSxrGEImARsCS8bFi51-Q" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "長州ラーメン万龍軒 新町店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJAZWD1bGEImARTdTJdRf2LRg" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "イタリアンパスタマリーン" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJBbONa66EImARVZwHeeyOyXk" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "PIER-01" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJD3T-eVaDImARtpABxTBxW34" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "ル・クール" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJIUFSUrKEImARcRNU8pJuiuQ" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "common cafe 千葉駅店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJT6o4gbqEImARq5_LDwmhArw" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": {
+          "S": "Yuba, Tofu and Japanese cuisine Kyoto Tsurezure Chiba shop"
+        },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJTcXrgrWEImARJpkVUjwVSNE" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "千葉っ子ダイニング ペコリ" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJYS5akLaEImARIS8WEXuMiEk" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "みどり鮨割烹" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ_zkiaZ6EImAR87-FYlQ5FKg" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "Ichiran Chiba Dezuminato shop" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJbboOGEybImARZnYz-0coLiw" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "みそ街道 炎-en- 千葉みゆき通り店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJcTQ_G7eEImARG3_JzPqKc8o" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "MARUHA" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJdYxMgraEImARaklq1x4AzTg" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "STARBUCKS COFFEE Sogo Chiba Junnu Shop" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJdxIwILGEImARzIawi2Lj-HY" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "KEISEI HOTEL MIRAMARE" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJi1WHWLSEImAR3MoqQSjXADE" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "小料理 野本" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJnf-BELeEImARHX80Y0YalXs" }
+      },
+      {
+        "city": { "S": "35.6074,140.1065" },
+        "name": { "S": "Huitre" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJp69cQ66EImARXIblQV3Utnc" }
+      }
+    ],
+    "ScannedCount": 20
+  },
+  {
+    "Count": 20,
+    "Items": [
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "Urawa Royal Pines Hotel" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ2V8ZhCrAGGARUO0E73AeApw" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "よし佳" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJ87MMSIPqGGARVOoTfYNCD3A" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "ロンドン酒場 アーロン 浦和" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJ97Gt44HqGGARFk18g09qC-0" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "命薬" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJCRoywoTqGGAR9B-_lTp-Re8" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "満寿家" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJFzxTtobqGGARwPn2oCN4kDo" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "八海そば 松月庵 手打ちそば ゆたか" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJG79s74nqGGARnrOmnLnVOjs" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "URaWA BASE" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJI0UImNbBGGAR5jVA88WIEpo" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "ドゥシェフ" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJI8LjdirAGGARY_g9b7oNoxU" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "高山商店 浦和本店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJNfAzsIHqGGART6vk3GmX3lw" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "築地寿司清浦和店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJQeY_zoPqGGARGeq9A5ywGlA" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "M's Rou" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJUWwtyCrAGGARbJH5Ja3icZQ" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "基" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJVR74d4HqGGARy-6by1kOV3w" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "ラ ココリコ 浦和 (LA COCORICO Urawa)" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJX9RfhoHqGGARGD1WwPQUJ_Y" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "菓匠花見 浦和本店" },
+        "rating": { "N": "4" },
+        "place_id": { "S": "ChIJXVryjIPqGGAR2QkupPD1dh4" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "来来軒 浦和西口店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJYxPOh4PqGGAR3uL8XfWqd_c" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "中華楼" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJZ22AjMjBGGARnSpjpK-Xrvc" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "Denny's" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJc8d-j4PqGGARXD_Ozg7oR4Q" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "大衆馬肉酒場 三村 浦和仲町店" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJu-jGiYHqGGARZeQFHnNphZ4" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "Sushihana" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJu3NMYYPqGGARaReAsfd63yk" }
+      },
+      {
+        "city": { "S": "35.8616,139.6455" },
+        "name": { "S": "ビストロ ヴァンエール" },
+        "rating": { "N": "3" },
+        "place_id": { "S": "ChIJwaOVKYLqGGARhCGDx7Nb1t0" }
+      }
+    ],
+    "ScannedCount": 20
+  }
+]

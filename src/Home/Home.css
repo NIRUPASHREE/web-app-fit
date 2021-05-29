@@ -1,44 +1,47 @@
-
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
-body { background:black; }
-form { max-width:420px; margin:50px auto; }
-
-.carousel-img{
-    width: 1750px;
- height: 700px;
- max-height: 1700px;
- margin: auto; 
- display: block;
+body {
+  background: black;
+}
+form {
+  max-width: 420px;
+  margin: 50px auto;
 }
 
-
-
-.card{
-    max-width:1750px;
-    height: 700px;
+.carousel-img {
+  width: 1750px;
+  height: 700px;
+  max-height: 1700px;
+  margin: auto;
+  display: block;
 }
 
-.card-title{
-    text-align: center;
-    font-size: 52px;
-    font-family:-moz-initial;
-    font-weight: 600;
+.card {
+  max-width: 1750px;
+  height: 700px;
 }
 
-.card-text{
-    text-align: center;
-    font-size: 30px;
-    font-family: -moz-initial;
-    
+.card-title {
+  text-align: center;
+  font-size: 52px;
+  font-family: -moz-initial;
+  font-weight: 600;
 }
 
-.card-img{
-    height: 700px;
-    width: 900px;
+.card-text {
+  text-align: center;
+  font-size: 28px;
+  font-family: -moz-initial;
 }
 
-*{ box-sizing: border-box; }
+.card-img {
+  height: 700px;
+  width: 900px;
+}
+
+* {
+  box-sizing: border-box;
+}
 
 #container {
   width: 1775px;
@@ -48,7 +51,7 @@ form { max-width:420px; margin:50px auto; }
 }
 
 #container .box {
-  display: inline-block;;
+  display: inline-block;
   /* position: relative; */
   border: 1px solid #3b3b3b;
   height: 100%;
@@ -57,7 +60,7 @@ form { max-width:420px; margin:50px auto; }
 }
 
 #container .box1 {
-  width: 25%;  
+  width: 25%;
 }
 
 #container .box2 {
@@ -72,22 +75,35 @@ form { max-width:420px; margin:50px auto; }
   width: 25%;
 }
 
-.block-img{
-    font-size: 40px;
-    font-family: -moz-initial;
-    color:rgb(226, 139, 8);
-    font-weight: 400;
-    text-align: center;
-    
+.block-img {
+  font-size: 40px;
+  font-family: -moz-initial;
+  color: rgb(226, 139, 8);
+  font-weight: 400;
+  text-align: center;
 }
 
-.block-icon{
-    display: block;
-    margin: auto;
-    margin-top: 90px;
-    
+.block-icon {
+  display: block;
+  margin: auto;
+  margin-top: 90px;
 }
 
 .zoom:hover {
-  transform: scale(1.03); 
+  transform: scale(1.03);
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+  margin-left: 210px;
+}
+
+.btn:hover {
+  color: rgb(226, 139, 8);
 }

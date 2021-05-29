@@ -2,13 +2,13 @@
   background: #000000;
   font-weight: bold;
 }
-
+​
 .form {
   max-width: 500px;
   margin: 0 auto;
   font-weight: bold;
 }
-
+​
 .h1Schedule {
   font-weight: 100;
   color: white;
@@ -17,7 +17,7 @@
   border-bottom: 1px solid rgb(79, 98, 148);
   font-weight: bold;
 }
-
+​
 .h1Form {
   font-weight: 100;
   color: white;
@@ -33,7 +33,7 @@
   margin: 0 auto;
   font-weight: bold;
 }
-
+​
 .input {
   display: block;
   box-sizing: border-box;
@@ -45,7 +45,7 @@
   font-size: 14px;
   font-weight: bold;
 }
-
+​
 .select {
   display: block;
   box-sizing: border-box;
@@ -56,7 +56,7 @@
   margin-bottom: 10px;
   font-size: 14px;
 }
-
+​
 .label {
   line-height: 2;
   text-align: left;
@@ -68,7 +68,7 @@
   letter-spacing: 5px;
   font-weight: bold;
 }
-
+​
 .input[type='submit'] {
   background: rgb(231, 168, 73);
   color: black;
@@ -81,11 +81,11 @@
   font-weight: 100;
   letter-spacing: 5px;
 }
-
+​
 .btn[type='submit']:hover {
   background: rgb(226, 139, 8);
 }
-
+​
 .btn[type='button']:active,
 .btn[type='submit']:active {
   transition: 0.3s all;
@@ -97,11 +97,11 @@
   max-width: 600px;
   margin: 0 auto;
 }
-
+​
 .Schedule {
   font-weight: bold;
 }
-
+​
 .cards {
   font-weight: bold;
   color: black;
@@ -113,20 +113,19 @@
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
 }
-
+​
 .cardsTitle {
   font-weight: bold;
   color: black;
   text-align: left;
   display: block;
-
   font-size: 20px;
   letter-spacing: 5px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 200px;
 }
-
+​
 .BackCard {
   background: rgb(231, 168, 73);
 }
